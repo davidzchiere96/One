@@ -1,6 +1,6 @@
 # _Hello World!_
 
-Brief script that returns "Hello World!"
+Simple script that returns "Hello World!"
 
   </a>
   <a href="https://www.python.org/downloads/release/python-311">
